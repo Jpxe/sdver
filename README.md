@@ -1,0 +1,2 @@
+# sdver
+Steam Deck verified
