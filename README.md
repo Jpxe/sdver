@@ -1,6 +1,6 @@
 # Steam Deck verfied icons
 
-## Not yet used
+## ![](https://store.cloudflare.steamstatic.com/public/shared/images/ico/ico-deck-unknown.svg) Not yet used
 
 ```
 "SteamDeckVerified_TestResult_SteamOSDoesSupport": "Steam Deck supports this game",
@@ -27,7 +27,7 @@
     "SteamDeckVerified_TestResult_ExternalControllersNotSupportedLocalMultiplayer": "This game does not support attached controllers for local multiplayer",
 ```
 
-## (✓) Checkmark (✓)
+## ![](https://store.cloudflare.steamstatic.com/public/shared/images/ico/ico-deck-verified.svg) Verified
 
 ```
     "SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional": "All functionality is accessible when using the default controller configuration",
@@ -36,7 +36,7 @@
     "SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant": "This game's default graphics configuration performs well on Steam Deck",
 ```
 
-## (i) Information (i)
+## ![](https://store.cloudflare.steamstatic.com/public/shared/images/ico/ico-deck-playable.svg) Playable
 
 ```
     "SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard": "Entering some text requires manually invoking the on-screen keyboard",
@@ -47,16 +47,15 @@
     "SteamDeckVerified_TestResult_LauncherInteractionIssues": "This game's launcher\/setup tool may require the touchscreen or virtual keyboard, or have difficult to read text",
 ```
 
-## Other information 
-
-(see https://steamdb.info/app/1446650/info/)
+## Note
+![](https://i.imgur.com/auyESIy.png)
 
 ```
     "SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported": "This game does not support cross-platform saved games",
     "SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer": "This game does not support attached controllers for the primary player",
 ```
 
-## Unsupported
+## ![](https://store.cloudflare.steamstatic.com/public/shared/images/ico/ico-deck-unsupported.svg) Unsupported
 
 ```
     "SteamDeckVerified_TestResult_SteamOSDoesNotSupport": "Valve is still working on adding support for this game on Steam Deck",
